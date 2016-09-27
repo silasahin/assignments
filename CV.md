@@ -15,4 +15,22 @@ Education
 
 Experience
 ----------
+* **Ernst & Young GmbH**, Stuttgart, Germany  
+Internship in department 'Transaction Advisory Services' with specialization in 'Corporate Restructuring'  
+*11/2015 - 04/2016*  
+* **Centre for European Economic Research (ZEW)**, Mannheim, Germany  
+Internship as Research Assistant with focus on Industrial Economics  
+*09/2014 - 11/2014*
+* **Work and Travel**, Australia and New Zealand  
+*12/2010 - 06/2011*  
+
+Skills
+------
+* **Computer**  
+Advanced knowledge of MS Excel and Stata  
+Basic knowledge of VBA and LaTex
+* **Languages**  
+German and Turkish (Native)    
+English (Fluent)  
+French (Intermediate)
 
