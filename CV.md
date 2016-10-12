@@ -21,8 +21,7 @@ Internship in department 'Transaction Advisory Services' with specialization in 
 * **Centre for European Economic Research (ZEW)**, Mannheim, Germany  
 Internship as Research Assistant with focus on Industrial Economics  
 *09/2014 - 11/2014*
-* **Work and Travel**, Australia and New Zealand  
-*12/2010 - 06/2011*  
+
 
 Skills
 ------
