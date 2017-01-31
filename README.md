@@ -4,3 +4,4 @@
 2. [Canon] (https://github.com/Guus22/Canon/blob/master/Canon%20group%203.pdf)
 3. [Python] (https://github.com/fxxmiles/Python/blob/master/Python/Python_assignment.ipynb)
  [Python.md] (https://github.com/fxxmiles/Python/blob/master/Python/Python.md)
+ [Python new] (https://fxxmiles.github.io/Python_assignment_acemoglu.html)
